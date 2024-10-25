@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Crowdfunding smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+# Deployed contract `0x3a29F5fAd07156e7d680323b50625D7e05F173A3` ([View on baseScan](https://sepolia.basescan.org/address/0x3a29F5fAd07156e7d680323b50625D7e05F173A3))
